@@ -1,4 +1,5 @@
 # Eat, Pray, Love(Dating app for Employee)
+[![HitCount](http://hits.dwyl.com/LEEJAEHYUB/Serendipity_client.svg)](http://hits.dwyl.com/LEEJAEHYUB/Serendipity_client)
 
 ## 0. Quickstart
 
